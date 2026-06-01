@@ -8,11 +8,10 @@ Me chamo Wallas Rodrigues Pereira,tenho 23 anos,estou estudando sobre os conceit
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
+<img
+    align="left"
     alt="C#"
-    title="C#" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"
+    title="C#"
+    width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
 />
